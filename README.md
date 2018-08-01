@@ -20,10 +20,10 @@ Current build status
 
 Current release info
 ====================
-[![Conda Recipe](https://img.shields.io/badge/recipe-r--dismo-green.svg)](https://anaconda.org/conda-forge/r-dismo)
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-dismo.svg)](https://anaconda.org/conda-forge/r-dismo)
-[![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-dismo.svg)](https://anaconda.org/conda-forge/r-dismo)
-[![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-dismo.svg)](https://anaconda.org/conda-forge/r-dismo)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--dismo-green.svg)](https://anaconda.org/conda-forge/r-dismo) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-dismo.svg)](https://anaconda.org/conda-forge/r-dismo) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-dismo.svg)](https://anaconda.org/conda-forge/r-dismo) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-dismo.svg)](https://anaconda.org/conda-forge/r-dismo) |
 
 Installing r-dismo
 ==================
