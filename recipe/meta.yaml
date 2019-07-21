@@ -16,7 +16,7 @@ source:
 
 build:
   merge_build_host: True  # [win]
-  number: 1002
+  number: 1003
   skip: true  # [win32]
 
   rpaths:
@@ -54,10 +54,5 @@ about:
 
 extra:
   recipe-maintainers:
-    - dpryan79
-    - johanneskoester
-    - bgruening
-    - daler
-    - jdblischak
-    - cbrueffer
+    - conda-forge/r
     - nsoranzo
