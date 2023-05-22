@@ -1,11 +1,22 @@
+About r-dismo-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dismo-feedstock/blob/main/LICENSE.txt)
+
 About r-dismo
-=============
+-------------
 
 Home: http://rspatial.org/sdm/
 
 Package license: GPL-3.0-or-later
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dismo-feedstock/blob/main/LICENSE.txt)
+Summary: Functions for species distribution modeling, that is, predicting entire geographic distributions form occurrences at a number of sites and the environment at these sites.
+About r-dismo
+-------------
+
+Home: http://rspatial.org/sdm/
+
+Package license: GPL-3.0-or-later
 
 Summary: Functions for species distribution modeling, that is, predicting entire geographic distributions form occurrences at a number of sites and the environment at these sites.
 
