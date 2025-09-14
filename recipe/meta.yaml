@@ -12,7 +12,7 @@ source:
   sha256: e79623a75514a54a6f4328a7939e1828c6fcd7d13d87e82ec030362af4632053
 
 build:
-  number: 1
+  number: 2
   # Skip win due to r-terra not being available: https://github.com/conda-forge/r-terra-feedstock/issues/61
   # Checking windows to see if it passes. Uncomment the line if it fails.
   skip: true  # [win]
